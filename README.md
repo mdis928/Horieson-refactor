@@ -1,7 +1,6 @@
 # Horieson-refactor
 
 The goal of this of this homework was to clean up the code. To do this we needed to use semantic elemants and not non-semantic elements. The visual webpage itself, didn't need to change. 
-
 Here are some of the following changes that were made;
 - I changed the <title> name to Horiseon
 - Within the <body>, there to many <div>. 
