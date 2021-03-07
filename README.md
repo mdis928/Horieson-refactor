@@ -16,4 +16,4 @@ I also noticed each class= for each sction had its own class, I cleaned up the C
 - I also added alt= and id= to the images.
 - I updated the footer sections of the webpage
 - I also made the position relative in <Main> and <Aside>
-
+![Horiseon](https://user-images.githubusercontent.com/79114439/110249620-f7649580-7f44-11eb-8129-95a1abb5b680.png)
